@@ -1,0 +1,43 @@
+--[[
+HATS - FREE
+https://www.roblox.com/catalog/3409612660/International-Fedora-USA
+https://www.roblox.com/catalog/3398308134/International-Fedora-Canada
+https://www.roblox.com/catalog/4324158403/International-Fedora-Japan
+https://www.roblox.com/catalog/3443038622/International-Fedora-Peru
+https://www.roblox.com/catalog/4819740796/Robox
+
+HATS - PAID
+https://www.roblox.com/catalog/11159410305/Rectangle-Head-For-Headless
+https://www.roblox.com/catalog/11263254795/Dummy-Head-For-Headless
+https://www.roblox.com/catalog/14255556501/Extra-Left-White-Arm
+https://www.roblox.com/catalog/14255554762/Extra-Right-White-Arm
+https://www.roblox.com/catalog/12344545199/Extra-Left-hand-moving-Blocky-white
+https://www.roblox.com/catalog/12344591101/Extra-Right-hand-moving-Blocky-white
+https://www.roblox.com/catalog/13839976999/Held-Dagger
+https://www.roblox.com/catalog/13831200263/Casual-Stud-Soda
+
+https://www.roblox.com/catalog/17374846953/Extra-Right-Black-Arm
+https://www.roblox.com/catalog/17374851733/Extra-Left-Black-Arm
+https://www.roblox.com/catalog/14768693948/White-Extended-Right-Arm
+https://www.roblox.com/catalog/14768701869/White-Extended-Left-Arm
+https://www.roblox.com/catalog/11159483910/Rectangle-Head-For-Headless
+https://www.roblox.com/catalog/12652786974/Building-Brick
+
+https://www.roblox.com/catalog/14255528083/Torso-Extension
+https://www.roblox.com/catalog/13421786478/Extra-Torso-Blocky
+https://www.roblox.com/catalog/14768678294/Torso-Extension
+https://www.roblox.com/catalog/14532301415/1x1x1x1s-Torso
+https://www.roblox.com/catalog/13423624885/Super-Track-Star-Torso
+https://www.roblox.com/catalog/11502853991/Glitched-Body
+https://www.roblox.com/catalog/14053485259/BLACK-ROCKSTAR-SPIDER-PUFFER-VEST
+https://www.roblox.com/catalog/13779879140/Black-Fluffy-Fur-Body
+https://www.roblox.com/catalog/14443132226/Sponge
+https://www.roblox.com/catalog/17163407577/Glitching-Red-Torso
+https://www.roblox.com/catalog/16297156693/Transparent-Inverted-Black-Torso
+]]
+
+Ruin Erratum
+loadstring(game:HttpGet("https://gist.githubusercontent.com/pepfre12/c2cfe8493996345f7934f501d33ac215/raw/9c0b76920d74c03788b889f70b0e7daeb5038cd0/RuinErratumFE",true))() 
+
+ME Switcher
+loadstring(game:HttpGet("https://gist.githubusercontent.com/pepfre12/662c0075d532fd0d7809283c0a40d986/raw/51c769324446ded9295399b4ef4a1a676d4aab38/MESwitcherFE",true))()
