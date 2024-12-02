@@ -1,0 +1,46 @@
+--[[
+HATS - FREE
+https://www.roblox.com/catalog/3409612660/International-Fedora-USA
+https://www.roblox.com/catalog/3398308134/International-Fedora-Canada
+https://www.roblox.com/catalog/4324158403/International-Fedora-Japan
+https://www.roblox.com/catalog/3443038622/International-Fedora-Peru
+https://www.roblox.com/catalog/4819740796/Robox
+
+HATS - PAID
+https://www.roblox.com/catalog/11159410305/Rectangle-Head-For-Headless
+https://www.roblox.com/catalog/11263254795/Dummy-Head-For-Headless
+https://www.roblox.com/catalog/14255556501/Extra-Left-White-Arm
+https://www.roblox.com/catalog/14255554762/Extra-Right-White-Arm
+https://www.roblox.com/catalog/12344545199/Extra-Left-hand-moving-Blocky-white
+https://www.roblox.com/catalog/12344591101/Extra-Right-hand-moving-Blocky-white
+https://www.roblox.com/catalog/13839976999/Held-Dagger
+https://www.roblox.com/catalog/13831200263/Casual-Stud-Soda
+
+https://www.roblox.com/catalog/17374846953/Extra-Right-Black-Arm
+https://www.roblox.com/catalog/17374851733/Extra-Left-Black-Arm
+https://www.roblox.com/catalog/14768693948/White-Extended-Right-Arm
+https://www.roblox.com/catalog/14768701869/White-Extended-Left-Arm
+https://www.roblox.com/catalog/11159483910/Rectangle-Head-For-Headless
+https://www.roblox.com/catalog/12652786974/Building-Brick
+
+https://www.roblox.com/catalog/14255528083/Torso-Extension
+https://www.roblox.com/catalog/13421786478/Extra-Torso-Blocky
+https://www.roblox.com/catalog/14768678294/Torso-Extension
+https://www.roblox.com/catalog/14532301415/1x1x1x1s-Torso
+https://www.roblox.com/catalog/13423624885/Super-Track-Star-Torso
+https://www.roblox.com/catalog/11502853991/Glitched-Body
+https://www.roblox.com/catalog/14053485259/BLACK-ROCKSTAR-SPIDER-PUFFER-VEST
+https://www.roblox.com/catalog/13779879140/Black-Fluffy-Fur-Body
+https://www.roblox.com/catalog/14443132226/Sponge
+https://www.roblox.com/catalog/17163407577/Glitching-Red-Torso
+https://www.roblox.com/catalog/16297156693/Transparent-Inverted-Black-Torso
+]]
+
+Ruin EX
+loadstring(game:HttpGet("https://gist.githubusercontent.com/pepfre12/a0e638ffe60ca910dde6cf9354b31e15/raw/c5f4c31ab822a6a229e53a1223ee7dc8f55d9af4/RuinEXFE",true))()
+
+Ruin Emphasis
+loadstring(game:HttpGet("https://gist.githubusercontent.com/pepfre12/c74df8cf218c3116f9e2e3dccc06b860/raw/45f28675339e7a757cbb6e4d91bb51b3468c29c5/RuinEmphasisFE",true))()
+
+Ruin XIII
+loadstring(game:HttpGet("https://gist.githubusercontent.com/pepfre12/5020d2837ee5d8ab161c973fde69957e/raw/ba1e76d9cb03b80612f3c2c9d8b9a73eb38cd4d5/RuinXIIIFE",true))()
